@@ -11,7 +11,6 @@
 <br/>
 
 <!-- Profile Views + Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=6AD3F7&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=flat-square&color=6AD3F7)](https://github.com/SyedSaad42)
 
 </div>
