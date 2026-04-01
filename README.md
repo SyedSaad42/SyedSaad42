@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20I'm%20Syed&animation=fadeIn&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey!%20I'm%20Syed&animation=fadeIn&reversal=false" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
