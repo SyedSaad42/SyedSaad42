@@ -84,7 +84,7 @@ syed = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SyedSaad42/SyedSaad42/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 > ⚠️ To activate the snake: Go to your repo → Actions tab → enable workflows → add the snake workflow YAML (I can write this for you!)
