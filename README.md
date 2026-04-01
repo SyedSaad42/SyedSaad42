@@ -10,9 +10,6 @@
 
 <br/>
 
-<!-- Profile Views + Followers Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=flat-square&color=6AD3F7)](https://github.com/SyedSaad42)
-
 </div>
 
 ---
